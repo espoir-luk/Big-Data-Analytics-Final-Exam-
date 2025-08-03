@@ -36,12 +36,12 @@ Place screenshot close_price_timeseries.png here
 Place screenshot correlation_heatmap.png here
 Place screenshot new_screenshot1 here (e.g., histogram or scatter, replace with actual name)
 
-![volume vs close scattert](./volume%20vs%20close%20scatter.PNG)  
+![volume vs close scattert](./volume%20vs%20close%20scatter.png)  
 
-![correlation heatmap](./correlation%20heatmap.PNG)
+![correlation heatmap](./correlation%20heatmap.png)
 
-![close price histogram](./Missing%20Values.PNG)
-![close price timeseries](./Missing%20Values.PNG)  
+![close price histogram](./close%20price%20histogram.png)
+![close price timeseries](./close%20price%20timeseries.png)  
 
 3. ## Predictive Modeling
 Process:
@@ -49,8 +49,7 @@ Process:
 next day's Close price
 - Evaluated model with RMSE (~0.1234) and MAE (~0.0987)
 - Generated predictions
-Output: stock_predictions.csv (columns: Date, Actual, Predicted)
-Place screenshot actual_vs_predicted.png here
+![Actual vs predicted](./actual%20vs%20predicted.png)  
 
 4. ## Power BI Dashboard Creation
 Process:
@@ -67,8 +66,7 @@ Open, Volume, MA_7)
 - Included slicers (Date, Metric) and bookmarks (Recent 5 Years, Full History)
 - Exported dashboard screenshot
 Output: apple_stock_dashboard.pbix, dashboard_screenshot.png
-Place screenshot dashboard_screenshot.png here
-Place screenshot new_screenshot2 here (e.g., slicer interaction, replace with actual name)
+![Power Bi Dashboard](./close%20price%20timeseries.png)  
 
 5. ## PowerPoint Presentation
 Process:
