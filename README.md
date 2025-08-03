@@ -20,6 +20,16 @@ Process:
 - Scaled numerical columns (e.g., Close to -3 to 3 range)
 Output: cleaned_apple_stock.csv
 
+# Data Loading
+![Data loading](./Data%20loading.PNG)  
+
+---
+# Data Cleaning 
+![Saving Cleaning](./Data%20Cleaning.PNG) 
+
+---
+# Saving Cleaned Dataset
+
 ![Saving Cleaned Dataset](./Saving%20cleaned%20dataset.PNG)  
 ---
 2. # Exploratory Data Analysis (EDA)
@@ -35,6 +45,8 @@ volume_vs_close_scatter.png)
 Place screenshot close_price_timeseries.png here
 Place screenshot correlation_heatmap.png here
 Place screenshot new_screenshot1 here (e.g., histogram or scatter, replace with actual name)
+
+![Exploratory Data Analysis](./Exploratory%20Data%20Analysis.PNG)  
 
 ![volume vs close scattert](./volume%20vs%20close%20scatter.png)  
 
@@ -66,8 +78,10 @@ Open, Volume, MA_7)
 - Included slicers (Date, Metric) and bookmarks (Recent 5 Years, Full History)
 - Exported dashboard screenshot
 Output: apple_stock_dashboard.pbix, dashboard_screenshot.png
-![Power Bi Dashboard](./close%20price%20timeseries.png)  
 
+![Power Bi Dashboard](./Power%20Bi%20Dashboard.png)  
+
+---
 5. ## PowerPoint Presentation
 Process:
 - Created a 6-slide presentation summarizing:
