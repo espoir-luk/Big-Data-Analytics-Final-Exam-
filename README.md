@@ -67,10 +67,10 @@ next day's Close price
 Process:
 - Loaded cleaned_apple_stock.csv and stock_predictions.csv into Power BI Desktop
 - Created a disconnected Metrics table for dynamic metric selection (Close, Adj_Close, High, Low,
-Open, Volume, MA_7)
+Open, Volume)
 - Defined DAX measure SelectedMetric for slicer interactivity
 - Added visuals:
-  - Time-Series Plot (Date vs. Close/SelectedMetric, MA_7)
+  - Time-Series Plot (Date vs. Close/SelectedMetric)
   - Histogram (Close_Binned vs. Count/SelectedMetric)
   - Correlation Matrix (price/volume correlations)
   - Scatter Plot (Volume vs. Close/SelectedMetric)
